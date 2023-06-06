@@ -1,0 +1,7 @@
+site_name: 'my-super-cool-app-ukg Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
